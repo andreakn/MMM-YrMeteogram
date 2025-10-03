@@ -1,6 +1,6 @@
 # MagicMirror² Module: YrMeteogram
 
-<img src="/images/screenshot.png" align="right"/>This is an UNofficial Yr module for [MagicMirror²](https://github.com/MichMich/MagicMirror), which displays a meteogram from [Yr](https://www.yr.no/nb/).
+This is an UNofficial Yr module for [MagicMirror²](https://github.com/MichMich/MagicMirror), which displays a meteogram from [Yr](https://www.yr.no/nb/).
 To find your locationId and check whether it will work: 
 - search for your location, 
 - press the "..." button in top right
